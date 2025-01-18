@@ -1,0 +1,35 @@
+.bar{
+    height: 50px;
+    width: 100px;
+    background-color: blue;
+    color: brown;
+    border: 2px solid red;
+   
+
+
+}
+.car{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+li{
+    height: 100px;
+    width: 100px;
+    background-color: bisque;
+    color: black;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+button{
+    margin-left: 90%;
+    background-color: blue;
+    margin-top: 700px;
+}
