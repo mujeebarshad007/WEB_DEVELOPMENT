@@ -1,6 +1,28 @@
 h1{
-    color: red;
+    color: rgb(13, 117, 10);
 }
 p{
-    color: purple;
+    color: rgb(255, 0, 0);
+}
+button 
+{
+    color: rgb(255, 0, 0);
+    background-color: greenyellow;
+
+}
+body 
+{
+    background-color: rgb(0, 0, 0);
+}
+#Headingone
+{
+    color : blue;
+}
+#Headingtwo
+{
+    color : rgb(255, 0, 0);
+}
+.myClass
+{
+    color: magenta;
 }
