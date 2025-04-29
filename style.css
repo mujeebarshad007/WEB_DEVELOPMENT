@@ -1,28 +1,29 @@
-h1{
-    color: rgb(13, 117, 10);
+#box
+{
+    background-color: rgb(0, 157, 255);
+}
+.heading
+{
+    color: red;
+}
+
+button
+{
+    background-color: green;
+    
 }
 p{
-    color: rgb(255, 0, 0);
+    text-align: center;
 }
-button 
+#one
 {
-    color: rgb(255, 0, 0);
-    background-color: greenyellow;
-
+    font-family: 'Courier New', Courier, monospace;
 }
-body 
+#two
 {
-    background-color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-#Headingone
+#three 
 {
-    color : blue;
-}
-#Headingtwo
-{
-    color : rgb(255, 0, 0);
-}
-.myClass
-{
-    color: magenta;
+    font-size: 50px;
 }
