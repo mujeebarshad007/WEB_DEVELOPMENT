@@ -5,6 +5,8 @@
 .heading
 {
     color: red;
+    font font-style: ;
+    
 }
 
 button
@@ -22,8 +24,10 @@ p{
 #two
 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    line-height: normal;
 }
-#three 
+#three z
 {
     font-size: 50px;
 }
