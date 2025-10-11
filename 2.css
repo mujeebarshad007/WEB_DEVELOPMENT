@@ -5,9 +5,15 @@
 
 
 h1{
+    height: 40px;
+    width: 200px;
     text-align: center;
     text-transform: capitalize;
+    background-color: bisque;
+    border: 2px solid black;
+    
 }
+
 #outer
 {
     font-size: 25px;
